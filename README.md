@@ -1,7 +1,7 @@
 ### 👋 Salut ! Viens voir mes apps 🙂
+- [Major System](https://apps.apple.com/fr/app/major-system/id6446816802?platform=iphone)
 - [Clubhouse Avatar Maker](https://apps.apple.com/fr/app/clubhouse-avatar-maker/id1557131017#?platform=iphone)
 - [Qui paye ?](https://apps.apple.com/fr/app/qui-paye/id1502766167#?platform=iphone)
-- [Major System](https://apps.apple.com/fr/app/major-system/id6446816802?platform=iphone)
 <!--
 **johnnysay/johnnysay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
